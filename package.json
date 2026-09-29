@@ -1,0 +1,18 @@
+{
+  "name": "full-stack-web-development-class-test-2",
+  "version": "1.0.0",
+  "description": "Full Stack Web Development - Class Test 2 solutions (COER University, CSE)",
+  "private": true,
+  "scripts": {
+    "q1": "node q1-event-loop/eventLoop.js",
+    "q2": "node q2-modules/app.js",
+    "q3": "node q3-middleware-routing/server.js",
+    "q4": "node q4-rest-api/server.js",
+    "q5": "node q5-error-handling/server.js",
+    "q7": "node q7-cors/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
